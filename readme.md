@@ -22,4 +22,4 @@ Debería quedar algo similar a esto
 - Recuerda que usaremos métodos de array e iteraciones
 - También trabajaremos con el DOM para poder mostrar el contenido
 
-Let´s CODE!
+Let´s CODE
